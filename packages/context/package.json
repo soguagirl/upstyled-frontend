@@ -1,0 +1,8 @@
+{
+  "name": "@upstyled/context",
+  "version": "0.0.0",
+  "main": "index.jsx",
+  "publishConfig": {
+    "access": "public"
+  }
+}
